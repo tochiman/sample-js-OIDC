@@ -40,6 +40,8 @@ docker compose up -d
 
 4. Access the URL of Nginx
 
+![](doc/Convert%20Video%20to%20GIF.gif)
+
 ## License
 
 > [!IMPORTANT]
